@@ -45,10 +45,12 @@
 - Fork This Main Repo.
 - Go to Setting Of Repo.
 - Rename the Fork Repo Put Anything Example : LEGEND1BOT, HSKSBOT, LEGENDOFFBOT etc...
-- Now U Can Deploy This Bot.
+- Now U Can Deploy This Bot
 
-(https://www.herokucdn.com/deploy/button.svg)](https://github.com/Evin-Boy/LEGENDBOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
+
+  - [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Evin-Boy/LEGENDBOT)
 ---------
 
 ## Variables
